@@ -7,7 +7,7 @@
 ------------------------------------------
 Öncelikle projeyi clonelayın.
 ```
-git clone https://github.com/OnurHocaoglu/js-first-task.git
+git clone https://github.com/OnurHocaoglu/lorem-ipsum-module.git
 ```
 ## Usage
 ----------------------------------------------------
@@ -15,7 +15,7 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 ```
-cd js-first-task
+cd lorem-ipsum-module
 code .
 ```
 ## Contributing
@@ -26,5 +26,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ---------------------------------------------------------
 [MIT](https://choosealicense.com/licenses/mit/)
 -----------------------------------------------------
-[Kodluyoruz.org](http://www.kodluyoruz.org)
-[Patika.dev](http://www.patika.dev)
+[Onurhocaoglu.com](http://www.onurhocaoglu.com)
