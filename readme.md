@@ -1,7 +1,4 @@
-# Javascript First Task Welcome Page
-
------------------------------------------------------------------------------------------------
-![Javascript Welcome Page](Js-First-Task.gif)
+# Lorem İpsum Module
 
 ## Installation
 ------------------------------------------
